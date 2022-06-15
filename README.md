@@ -1,7 +1,11 @@
 medicalShop
+
 Online pharmacy store management system, which is used for sale medicines, list the medicines available, which are about to expire.
+
 Technologies used :
+
 Java, MySQL, Maven, Git
+
 Features:
 
 User must register and login to enter into my website . Then they can see list of medicines . Admine can update the medicine list and 
@@ -37,4 +41,5 @@ the jar built for this project will be target folder.
 in Windows command promts >> mvn -java jarname or we can run in eclipse.
 
 Contributor:
+
 Nithyakalyani.Y.A
