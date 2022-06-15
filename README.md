@@ -1,12 +1,12 @@
-medicalShop
+MEDICALSHOP
 
 Online pharmacy store management system, which is used for sale medicines, list the medicines available, which are about to expire.
 
-Technologies used :
+TECHNOLOGIES USED :
 
 Java, MySQL, Maven, Git
 
-Features:
+FEATURES:
 
 User must register and login to enter into my website . Then they can see list of medicines . Admine can update the medicine list and 
 then user can order there medical product in my website . After selecting product it will redirect to payment page, and 
